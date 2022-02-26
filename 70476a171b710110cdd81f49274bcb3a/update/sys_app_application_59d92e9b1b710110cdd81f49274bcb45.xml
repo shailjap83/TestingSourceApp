@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>ABCTest</name>
+        <order>100</order>
+        <roles>x_snc_testingsourc.abctest_user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>shailja.panthri@snc</sys_created_by>
+        <sys_created_on>2022-02-26 10:15:13</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>59d92e9b1b710110cdd81f49274bcb45</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ABCTest</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="TestingSourceApp" source="x_snc_testingsourc">70476a171b710110cdd81f49274bcb3a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TestingSourceApp">70476a171b710110cdd81f49274bcb3a</sys_scope>
+        <sys_update_name>sys_app_application_59d92e9b1b710110cdd81f49274bcb45</sys_update_name>
+        <sys_updated_by>shailja.panthri@snc</sys_updated_by>
+        <sys_updated_on>2022-02-26 10:15:13</sys_updated_on>
+        <title>ABCTest</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
