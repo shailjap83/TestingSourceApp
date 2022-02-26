@@ -1,3 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="ABCTest" max_length="40" name="x_snc_testingsourc_abctest" type="collection"/>
+    <element label="ABCTest" max_length="40" name="x_snc_testingsourc_abctest" type="collection">
+        <element label="COlumn 1" max_length="40" name="column_1" type="string"/>
+    </element>
 </database>
